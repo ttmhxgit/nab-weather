@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`app render fetch and render app: 
+      Array [
+        "MondayH 29°   L 26°",
+        "TuesdayH 34°   L 26°",
+        "WednesdayH 32°   L 26°",
+        "ThursdayH 31°   L 25°",
+        "FridayH 31°   L 25°",
+        "SaturdayH 31°   L 26°",
+      ]
+     1`] = `
+Array [
+  "MondayH 29°   L 26°",
+  "TuesdayH 34°   L 26°",
+  "WednesdayH 32°   L 26°",
+  "ThursdayH 31°   L 25°",
+  "FridayH 31°   L 25°",
+  "SaturdayH 31°   L 26°",
+]
+`;
