@@ -5,11 +5,11 @@
 - **[Script]**
 - **[Structure]**
 
-##Getting Started
+# **Getting Started**
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Clone the branch in the repository
+**Clone the branch in the repository**
 
 ```
 git clone git@github.com:ttmhxgit/nab-weather.git
@@ -27,7 +27,7 @@ node -v
 yarn -v  
 ```
 
-# Set local enviroment
+**Set local enviroment**
 - Create ```.env``` file in the root directory of the project. Add the following properties in it:
 ```
 REACT_APP_API_URL = https://api.openweathermap.org/data/2.5
@@ -35,7 +35,7 @@ REACT_APP_API_KEY = 8558922033368b54985fb6ea5d1b0d3a
 REACT_APP_ICON_URL = https://openweathermap.org/img/w
 ```
 
-##Script
+# **Script**
 In the project directory, you can run:
 
 ```
@@ -58,7 +58,7 @@ yarn run eject
 ```
 It will stop hiding what it's got installed under the hood and instead eject those things into your project's package.json for everyone to see.
 
-##Structure
+# **Structure**
 
 ```
 root
