@@ -8,9 +8,9 @@
 
 # **Getting Started**
 
-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).**
 
-**Clone the branch in the repository**
+- Clone the branch in the repository
 
 ```
 git clone git@github.com:ttmhxgit/nab-weather.git
