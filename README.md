@@ -1,9 +1,10 @@
 # NAB Weather 
 
 ## 🚀 Table of Contents
-- **[Getting Started]**
-- **[Script]**
-- **[Structure]**
+- **[Getting Started](https://github.com/ttmhxgit/nab-weather#getting-started)**
+- **[Script](https://github.com/ttmhxgit/nab-weather#script)**
+- **[Library](https://github.com/ttmhxgit/nab-weather#library)**
+- **[Structure](https://github.com/ttmhxgit/nab-weather#structure)**
 
 # **Getting Started**
 
@@ -57,6 +58,15 @@ Builds the app for production to the build folder. It correctly bundles React in
 yarn run eject
 ```
 It will stop hiding what it's got installed under the hood and instead eject those things into your project's package.json for everyone to see.
+# **Library**
+
+API weather: using [openweathermap](https://openweathermap.org/)
+
+```
+https://api.openweathermap.org/data/2.5
+```
+- **[React](https://reactjs.org/)** _(v17.0.2)_
+- Styling syntax was written in SCSS and using **[TailwindCSS](https://tailwindcss.com/)**
 
 # **Structure**
 
@@ -97,8 +107,9 @@ root
     `__mocks__`: contain mockdata for test
     `components`: contain several components with each component and having an own files. `*.js`
     `hooks`: contain several customize hook with each hook and having an own files. `*.js`
+    `libs`: contain files with each file representing some utility function.
     `view`: contain several pages with each contain wrapping many components and having an own files. `*.js`
-    `These 3 directory have it own `__test` directory containing several test cases testing a utility function or a component.
+    `components, libs, view` These 3 directory have it own `__test` directory containing several test cases testing a utility function or a component.
 3.   **`craco.config.js`**: contains the configuration of `craco`.
 4.   **`tailwind.config.js`**: contains the configuration related to `tailwindcss`.
 
