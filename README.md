@@ -1,6 +1,6 @@
 # NAB Weather 
 
-## 🚀 Table of Contents
+## 🚀 **Table of Contents**
 - **[Getting Started](https://github.com/ttmhxgit/nab-weather#getting-started)**
 - **[Script](https://github.com/ttmhxgit/nab-weather#script)**
 - **[Library](https://github.com/ttmhxgit/nab-weather#library)**
@@ -66,7 +66,7 @@ API weather: using [openweathermap](https://openweathermap.org/)
 https://api.openweathermap.org/data/2.5
 ```
 - **[React](https://reactjs.org/)** _(v17.0.2)_
-- Styling syntax was written in SCSS and using **[TailwindCSS](https://tailwindcss.com/)**
+- Styling using **[TailwindCSS](https://tailwindcss.com/)**
 
 # **Structure**
 
