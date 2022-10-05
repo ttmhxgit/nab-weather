@@ -36,6 +36,9 @@ export default function App() {
     }
   }, [debouncedSearchTerm]);
 
+
+  
+
   return (
     <div className="min-h-screen">
       <Router>
